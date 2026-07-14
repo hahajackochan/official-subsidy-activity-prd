@@ -1,7 +1,9 @@
 dist/
+dist-worker/
 .dev.vars
 .env
 .env.*
 !.env.example
 .wrangler/
+.wrangler-dry-run/
 .DS_Store
